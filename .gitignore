@@ -1,0 +1,10 @@
+yarn-error.log
+/node_modules
+.DS_Store
+.idea
+/build
+/src/configs/local.json
+package-lock.json
+/yarn.lock
+/client/node_modules
+/server/node_modules
