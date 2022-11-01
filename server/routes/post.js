@@ -4,7 +4,6 @@ const verifyToken = require("../middleware/auth")
 const Post = require('../models/Post')
 var mongoose = require('mongoose');
 
-0
 //@route POST api/posts
 //@desc Create post
 // @access Private
